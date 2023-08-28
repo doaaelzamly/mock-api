@@ -137,8 +137,8 @@
       "id": 1 ,
       "username":"DoaaElzamly",
       "email": "doaaelzamly12@gmail.com",
-      "phone": 0595204783,
-      "password": 12345678,
+      "phone": "0595204783",
+      "password": "12345678",
     }
   ],
 }
