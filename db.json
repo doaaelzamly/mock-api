@@ -129,32 +129,6 @@
             "image": "https://opensooq-images.os-cdn.com/previews/0x720/47/da/47da1a3010ad53f6cd9eaa89f64730190b76355d924ba6a5e07a03e19098d64f.jpg.webp",
             "img":"https://i.pinimg.com/564x/fe/55/e1/fe55e11ce771a59dc2eb9e942d3aa97a.jpg",
             "img1":"https://i.pinimg.com/564x/f7/ac/85/f7ac85ddaa670dc303689b0978921dde.jpg"
-        },
-        {
-            "id":11,
-            "title":"Super Lux apartment",
-            "bathroom": 3 ,
-            "bedroom": 5,
-            "location": "Deir al-Balah" ,
-            "description": "Apartment in a two-storey house on an asphalt street of 12 meters in Deir, near Abu Arif Street. The house is on the edge of the land, and the rest of the area is cultivated, at a price of 529 dinars",
-            "category": "apartment",
-            "price":200,
-            "image": "https://opensooq-images.os-cdn.com/previews/0x720/b0/f6/b0f6b87848843a9cf0e4aec8315565451c52a2b945abb5b73eb23f0c7efa34ae.jpg.webp",
-            "img":"https://i.pinimg.com/564x/fe/55/e1/fe55e11ce771a59dc2eb9e942d3aa97a.jpg",
-            "img1":"https://i.pinimg.com/564x/f7/ac/85/f7ac85ddaa670dc303689b0978921dde.jpg"
-        },
-        {
-            "id":12,
-            "title":"Kushan Tabu",
-            "bathroom": 3 ,
-            "bedroom": 3,
-            "location": "Gaza" ,
-            "description": "A villa on Salah El-Din Street in Gaza, the house is on the edge of the land, and the rest of the area is cultivated, at a price of 1052 dinars.",
-            "category": "roof",
-            "price":600,
-            "image": "https://opensooq-images.os-cdn.com/previews/0x720/47/31/4731c5a0b529fa419c611a1906759ef6c0de9ac141b6240b494d455938c4a314.jpg.webp",
-            "img":"https://i.pinimg.com/564x/fe/55/e1/fe55e11ce771a59dc2eb9e942d3aa97a.jpg",
-            "img1":"https://i.pinimg.com/564x/f7/ac/85/f7ac85ddaa670dc303689b0978921dde.jpg"
         }
     ],
   "favorite":[],
