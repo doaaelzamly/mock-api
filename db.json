@@ -155,46 +155,6 @@
             "image": "https://opensooq-images.os-cdn.com/previews/0x720/47/31/4731c5a0b529fa419c611a1906759ef6c0de9ac141b6240b494d455938c4a314.jpg.webp",
             "img":"https://i.pinimg.com/564x/fe/55/e1/fe55e11ce771a59dc2eb9e942d3aa97a.jpg",
             "img1":"https://i.pinimg.com/564x/f7/ac/85/f7ac85ddaa670dc303689b0978921dde.jpg"
-        },
-        {
-            "id":13,
-            "title":"Apartment for sale",
-            "bathroom": 2 ,
-            "bedroom": 3,
-            "location": "ٌRafah" ,
-            "description": "Apartment in excellent condition for sale located near Omar Al Mukhtar Street",
-            "category": "apartment",
-            "price": 400,
-            "image": "https://opensooq-images.os-cdn.com/previews/0x720/56/6e/566e4e1c94d7151fdc8b6970e2837324c67018dc115ad11a32e6eadd5c352afd.jpg.webp",
-            "img":"https://i.pinimg.com/564x/fe/55/e1/fe55e11ce771a59dc2eb9e942d3aa97a.jpg",
-            "img1":"https://i.pinimg.com/564x/f7/ac/85/f7ac85ddaa670dc303689b0978921dde.jpg"
-        },
-        {
-            "id":14,
-            "title":"Bone villa",
-            "bathroom": 3 ,
-            "bedroom": 6,
-            "location": "ٌRafah" ,
-            "description": "Villa in Al-Jeneina neighborhood for sale, land area 500 m, building area 320 m, it has a landmark and a main street, it has a ready water well, two separate entrances, a building designed according to the insulation system",
-            "category": "Villa",
-            "price": 500,
-            "image": "https://opensooq-images.os-cdn.com/previews/0x720/63/9e/639e0b17e680d75562ed7156f4f0cc8eaf536989c529a8b817dac77b8531e11b.jpg.webp",
-            "img":"https://i.pinimg.com/564x/fe/55/e1/fe55e11ce771a59dc2eb9e942d3aa97a.jpg",
-            "img1":"https://i.pinimg.com/564x/f7/ac/85/f7ac85ddaa670dc303689b0978921dde.jpg"
-        },
-        {
-            "id":15,
-            "title":"Ready to move",
-            "bathroom": 2 ,
-            "bedroom": 3,
-            "location": "ٌGaza" ,
-            "description": "Ready-to-move-in apartment with balcony overlooking Al-Aam Street",
-            "category": "apartment",
-            "price": 200,
-            "image": "https://opensooq-images.os-cdn.com/previews/0x720/af/af/afaf34aa032f300a87aa1597bc2f9699e98d3cb6c4195a212c46543afd68e732.jpg.webp",
-            "img":"https://i.pinimg.com/564x/fe/55/e1/fe55e11ce771a59dc2eb9e942d3aa97a.jpg",
-            "img1":"https://i.pinimg.com/564x/f7/ac/85/f7ac85ddaa670dc303689b0978921dde.jpg"
-
         }
     ],
   "favorite":[],
