@@ -131,14 +131,24 @@
             "img1":"https://i.pinimg.com/564x/f7/ac/85/f7ac85ddaa670dc303689b0978921dde.jpg"
         }
     ],
-  "favorite":[],
   "user":[
     {
       "id": 1 ,
       "username":"DoaaElzamly",
       "email": "doaaelzamly12@gmail.com",
       "phone": "0595204783",
-      "password": "12345678",
+      "password": "12345678"
     }
   ]
 }
+
+
+
+
+
+
+
+
+
+
+
